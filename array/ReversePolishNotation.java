@@ -41,6 +41,6 @@ public class ReversePolishNotation {
 
 	public static void main(String args[]) {
 		String notation[] = { "2", "3", "+", "1", "*" };
-		System.out.println("Result of eveluated expression ::" + eval(notation));
+		System.out.println("Result of eveluated expression ::" + eval(notation)); 
 	}
 }
