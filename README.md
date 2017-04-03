@@ -1,10 +1,8 @@
-##### Algorith 
+##### Algorithm 
 
 | Problem Name  			 | Description                                	       | Solution       |
 | -------------------------- | --------------------------------------------------- |----------------|
-| Rotate Array				 |Rotate an array of n elements to the right by k steps|[Java][1],[C][2]|
+| Rotate Array				 |Rotate an array of n elements to the right by k steps|[Java][1],[c],[c++]|
 
 
-[1]: Array/RotateArray.java
-[2]:https://google.com
-			
+[1]: Array/RotateArray.java		
