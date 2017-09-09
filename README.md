@@ -8,7 +8,7 @@
 |4 | Tree Traversal             |Binary Tree Traversal (DFS)                                  |[C++][4]           |
 |5 | Binay Search               |Search Key in binary search tree                             |[C++][5]           |
 |6 | Binary Serach Insert       |Binary Tree Insert Iterative                                 |[C++][6]           |
-|7 | Binary Tree Same           |Binary Tree Compare If Tree Is same or not                   |[C++][6]           |
+|7 | Binary Tree Same           |Binary Tree Compare If Tree Is same or not                   |[C++][7]           |
 
 [1]: array/RotateArray.java	
 [2]: array/ReverseWord.java
