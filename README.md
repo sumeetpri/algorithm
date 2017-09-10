@@ -9,6 +9,8 @@
 |5 | Binay Search               |Search Key in binary search tree                             |[C++][5]           |
 |6 | Binary Serach Insert       |Binary Tree Insert Iterative                                 |[C++][6]           |
 |7 | Binary Tree Same           |Binary Tree Compare If Tree Is same or not                   |[C++][7]           |
+|8 | Binary Tree Size and Height           |Get Binary Tree Size and Height                   |[C++][8]           |
+|9 | Merge Sort           |Sort array using merge sort                  |[C++][9]           |
 
 [1]: array/RotateArray.java	
 [2]: array/ReverseWord.java
@@ -17,3 +19,5 @@
 [5]: binary%20tree/BinarySearchTree.cpp
 [6]: binary%20tree/BinarySearchTreeInsert.cpp
 [7]: binary%20tree/BinarySearchSameTree.cpp
+[8]: binary%20tree/BinaryTreeSize.cpp
+[9]: sorting/MergeSort.cpp
